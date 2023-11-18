@@ -1,7 +1,6 @@
 import React from 'react';
 import './About.css';
 import DevPhoto from '../imgs/1.png';
-import HobbyPhoto from '../imgs/2.png';
 
 function About() {
   return (
