@@ -55,11 +55,19 @@
   .header-nav ul li a:hover {
     color: #FFC107;
   }
+
+  .logo-title-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none; 
+    color: inherit;
+  }
   
   @media (max-width: 768px) {
     .header-content {
       flex-direction: column;
       text-align: center;
+      font-size: smaller;
     }
   
     .logo-title-container {
@@ -68,8 +76,9 @@
     }
   
     .logo-image {
-      margin-bottom: 10px;
+      display: none;
     }
+
   
     .header-nav ul {
       flex-direction: column;

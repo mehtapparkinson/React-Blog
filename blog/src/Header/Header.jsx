@@ -1,20 +1,21 @@
 import React from 'react';
 import './header.css'; 
 import logo from '../imgs/logo.png';
+import { Link } from 'react-router-dom';
 
 function Header() {
   return (
     <header className="blog-header">
       <div className="header-content">
-        <div className="logo-title-container">
+        <Link to="/" className="logo-title-link">
           <img src={logo} alt="Logo" className="logo-image" />
-          <h1>My Blog</h1>
-        </div>
+          <h1>My React Blog</h1>
+        </Link>
         <nav className="header-nav">
           <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/contact">Contact</a></li>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/about">About</Link></li>
+            <li><Link to="/contact">Contact</Link></li>
           </ul>
         </nav>
       </div>
