@@ -1,0 +1,22 @@
+.blog-footer {
+    background-color: #2E4053;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 1rem;
+  }
+  
+  .blog-footer p {
+    margin: 5px 0;
+  }
+  
+  .blog-footer a {
+    color: rgb(236, 172, 255);
+    text-decoration: none;
+    margin-left: 5px;
+  }
+  
+  .blog-footer a:hover {
+    text-decoration: underline;
+  }
+      
