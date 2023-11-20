@@ -6,6 +6,7 @@ import About from './About/About';
 import Contact from './Contact/Contact';
 import Header from './Header/Header';
 import Footer from './Footer/Footer';
+import Article from './Article/Article';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path="/" element={<Home />} exact />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/article/:id" element={<Article />} /> 
         </Routes>
         <Footer></Footer>
       </div>

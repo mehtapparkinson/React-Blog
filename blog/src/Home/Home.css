@@ -1,0 +1,34 @@
+
+  .home-container {
+    padding: 20px;
+    text-align: center;
+    max-width: 1000px; 
+    margin: auto; 
+  }
+
+  .home-container h1 {
+    color: rgb(41, 20, 115);
+  }
+  
+  .blog-posts {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .intro-text {
+    margin: 20px 0;
+    font-size: 1.2rem; 
+    color: rgb(39, 7, 69);
+    line-height: 1.6;
+    text-align: center; 
+  }
+  
+
+  @media (max-width: 768px) {
+    .blog-posts {
+      grid-template-columns: 1fr; 
+    }
+  }
+  
