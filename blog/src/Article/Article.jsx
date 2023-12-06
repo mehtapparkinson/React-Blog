@@ -17,7 +17,10 @@ function Article() {
       <img src={article.imageUrl} alt={article.title} className="article-image" />
       <div className="article-body">
         <p className="article-summary">{article.summary}</p>
-        <div className="article-content">{article.content}</div>
+        <div 
+          className="article-content" 
+          dangerouslySetInnerHTML={{ __html: article.content }}
+        />
       </div>
     </div>
   );
