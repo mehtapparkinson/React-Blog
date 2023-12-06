@@ -24,44 +24,79 @@ const postsData = [
       I'm just starting out in iOS development, and there's still so much to learn. Every app I make helps me get better. The Magic 8 Ball and dice apps are just the beginning. I can't wait to try more complex projects.<br><br>
       
       I hope you enjoyed reading about my journey. If you have any tips or stories about app development, I'd love to hear them in the comments!
-    `,
+    `
     },
     {
-      id: 2,
-      title: "Article",
-      summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-      imageUrl: "https://authorservices.taylorandfrancis.com/wp-content/uploads/2020/10/icon_draft_your_article.svg",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue turpis ipsum. Donec eleifend mauris at eleifend mattis. Mauris eu elementum sem, ut ornare lacus. Phasellus vitae orci enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque facilisis, ante et pretium feugiat, massa ipsum iaculis ante, sed consequat lectus purus id metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non malesuada ipsum. Ut et risus laoreet mauris tincidunt interdum eu at lectus. Mauris aliquam ligula ac faucibus pellentesque. Donec eget nulla vitae quam sodales semper. Sed id elit auctor, ultricies purus id, ornare odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum enim erat, dictum sed neque quis, imperdiet posuere sem. Sed urna orci, lobortis nec consectetur efficitur, sagittis quis neque.Praesent non finibus neque. Suspendisse nec sagittis eros. Donec vitae fermentum augue. Aenean lacinia neque rutrum, volutpat metus sit amet, iaculis mauris. Sed quis porta purus, id vestibulum velit. Proin bibendum, felis a maximus bibendum, ante quam fermentum massa, vel tristique purus risus ac odio. Quisque ac elit vel odio maximus viverra. Praesent bibendum neque feugiat quam ornare, vitae fringilla purus imperdiet. Vivamus vehicula nulla ac ligula volutpat facilisis. Sed aliquam odio augue, sed pharetra lacus placerat ut. Proin venenatis scelerisque consectetur. Nullam nibh velit, consequat a purus et, efficitur sollicitudin felis. Quisque a euismod diam. Nam accumsan finibus ex quis fermentum. Ut non risus eget ipsum maximus facilisis ut quis arcu."
+      "id": 2,
+      "title": "Celebrating Christmas and Embracing New Year's Resolutions",
+      "summary": "As we approach the end of the year, let's dive into the festive spirit of Christmas and the hopeful beginnings of New Year's resolutions.",
+      "imageUrl": "https://i.ibb.co/0Q548ND/DALL-E-2023-12-06-22-30-40-A-warm-and-festive-Christmas-scene-with-a-beautifully-decorated-Christmas.png",
+      "content": `
+        <b>Season's Greetings to All!</b><br><br>
+    
+        As the year draws to a close, there's a special kind of magic in the air. It's Christmas time, a season of joy, giving, and sparkling lights. And soon after, we step into a new year, filled with hope and the promise of new beginnings. In this post, I want to share my thoughts on Christmas celebrations and the tradition of making New Year's resolutions.<br><br>
+    
+        <b>The Magic of Christmas</b><br>
+        Christmas isn't just a holiday; it's a feeling. Whether it's the twinkling lights, the cozy nights by the fireplace, or the excitement of gift-giving, there's something incredibly heartwarming about this time of the year. For me, Christmas is about family, love, and gratitude. It's a time to come together, share stories, and create memories that last a lifetime.<br><br>
+    
+        <b>The Tradition of Gift-Giving</b><br>
+        One of the most cherished traditions of Christmas is the exchange of gifts. It's not about the price tag; it's the thought that counts. Each gift is a token of affection, a way to show our loved ones that we care. This year, I've tried to be more thoughtful about my gifts, choosing things that are not just beautiful but also meaningful.<br><br>
+    
+        <b>Reflections on the Year Gone By</b><br>
+        As we celebrate Christmas, it's also a time to reflect on the year that's passed. It's been a year like no other, filled with challenges and triumphs. I like to take this time to think about the good times and the hard times, the lessons learned, and the growth experienced.<br><br>
+    
+        <b>New Year's Resolutions: A Fresh Start</b><br>
+        And then comes the New Year, symbolizing new beginnings and fresh starts. Every year, I make resolutions – some I stick to, some I don't, but the important part is setting goals and trying to better myself. Whether it's picking up a new hobby, improving my health, or learning a new skill, these resolutions guide me into the new year with purpose.<br><br>
+    
+        <b>My Resolutions for the Upcoming Year</b><br>
+        This year, my resolutions are all about self-improvement and mindfulness. I want to read more, spend more time in nature, and continue learning and growing in my personal and professional life. What are your resolutions? I believe that sharing them can be a great motivator!<br><br>
+    
+        <b>Conclusion: Embrace the Season</b><br>
+        As we enjoy the Christmas festivities and gear up for the New Year, let's take a moment to appreciate the present and look forward to the future with optimism. Let's carry the spirit of Christmas into the New Year and make it a year of growth, happiness, and fulfillment.<br><br>
+    
+        Happy Holidays, and here's to a fantastic New Year!
+      `
     },
+    
     {
-      id: 3,
-      title: "Article",
-      summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-      imageUrl: "https://authorservices.taylorandfrancis.com/wp-content/uploads/2020/10/icon_draft_your_article.svg",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue turpis ipsum. Donec eleifend mauris at eleifend mattis. Mauris eu elementum sem, ut ornare lacus. Phasellus vitae orci enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque facilisis, ante et pretium feugiat, massa ipsum iaculis ante, sed consequat lectus purus id metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non malesuada ipsum. Ut et risus laoreet mauris tincidunt interdum eu at lectus. Mauris aliquam ligula ac faucibus pellentesque. Donec eget nulla vitae quam sodales semper. Sed id elit auctor, ultricies purus id, ornare odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum enim erat, dictum sed neque quis, imperdiet posuere sem. Sed urna orci, lobortis nec consectetur efficitur, sagittis quis neque.Praesent non finibus neque. Suspendisse nec sagittis eros. Donec vitae fermentum augue. Aenean lacinia neque rutrum, volutpat metus sit amet, iaculis mauris. Sed quis porta purus, id vestibulum velit. Proin bibendum, felis a maximus bibendum, ante quam fermentum massa, vel tristique purus risus ac odio. Quisque ac elit vel odio maximus viverra. Praesent bibendum neque feugiat quam ornare, vitae fringilla purus imperdiet. Vivamus vehicula nulla ac ligula volutpat facilisis. Sed aliquam odio augue, sed pharetra lacus placerat ut. Proin venenatis scelerisque consectetur. Nullam nibh velit, consequat a purus et, efficitur sollicitudin felis. Quisque a euismod diam. Nam accumsan finibus ex quis fermentum. Ut non risus eget ipsum maximus facilisis ut quis arcu."
+      "id": 3,
+      "title": "Balancing Learning and Doing: Continuing Education as a Developer",
+      "summary": "As a junior developer, balancing continuous learning with practical application is key. This article shares insights on how to maintain this balance effectively in the tech industry.",
+      "imageUrl": "https://i.ibb.co/NKZxKwv/DALL-E-2023-12-06-22-36-30-A-modern-minimalist-workspace-with-a-laptop-open-displaying-code-surround.pngg",
+      "content": `
+        <b>Introduction</b><br><br>
+        In the ever-evolving world of technology, the learning journey for a developer is never truly complete. As a junior developer, I've quickly realized that balancing continuous education with practical application is not just beneficial; it's essential. In this article, I'll share my insights on how to maintain this balance effectively.<br><br>
+    
+        <b>The Importance of Continuous Learning in Tech</b><br>
+        The tech industry moves at lightning speed. New languages, tools, and frameworks emerge constantly, and staying updated is crucial. However, it's not just about keeping up with trends. Continuous learning helps in:<br>
+        - Staying relevant in your field.<br>
+        - Enhancing problem-solving skills.<br>
+        - Opening doors to new opportunities and career advancements.<br><br>
+    
+        <b>Finding the Right Learning Resources</b><br>
+        The abundance of learning resources can be overwhelming. From online courses and tutorials to webinars and conferences, there's a lot to choose from. Here’s how I navigate through them:<br>
+        1. <i>Identify Clear Goals</i>: Knowing what you want to achieve helps in selecting the most relevant resources.<br>
+        2. <i>Quality over Quantity</i>: Choose resources that offer depth and practical knowledge rather than trying to cover everything.<br>
+        3. <i>Community Learning</i>: Engage in tech communities or forums. Sometimes, peer learning can be more effective than solo study.<br><br>
+    
+        <b>Practical Application: Learning by Doing</b><br>
+        While theoretical knowledge is important, the real learning happens when you apply these concepts. Here’s how I ensure practical application:<br>
+        1. <i>Personal Projects</i>: Building something from scratch or contributing to open-source projects can be great learning experiences.<br>
+        2. <i>Code Reviews and Mentorship</i>: Participating in code reviews or seeking mentorship can provide practical insights and feedback.<br>
+        3. <i>Hackathons and Coding Challenges</i>: These not only test your skills but also push you to learn and apply new concepts under time constraints.<br><br>
+    
+        <b>Balancing the Two</b><br>
+        The key to balancing learning and doing lies in integration and time management:<br>
+        1. <i>Set Realistic Goals</i>: Don't overload yourself. Set achievable learning goals alongside your development work.<br>
+        2. <i>Schedule Learning</i>: Allocate specific time slots for learning, just like you would for any other work task.<br>
+        3. <i>Apply As You Learn</i>: Try to implement new concepts in your current projects wherever applicable.<br><br>
+    
+        <b>Conclusion</b><br>
+        Balancing continuous learning with practical application might seem challenging, but it's a fulfilling journey. As developers, our growth is not just in the lines of code we write, but in the knowledge we gain and apply. Embrace the process, and you’ll find that learning and doing go hand in hand in the world of tech.<br><br>
+      `
     },
-    {
-      id: 4,
-      title: "Article",
-      summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-      imageUrl: "https://authorservices.taylorandfrancis.com/wp-content/uploads/2020/10/icon_draft_your_article.svg",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue turpis ipsum. Donec eleifend mauris at eleifend mattis. Mauris eu elementum sem, ut ornare lacus. Phasellus vitae orci enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque facilisis, ante et pretium feugiat, massa ipsum iaculis ante, sed consequat lectus purus id metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non malesuada ipsum. Ut et risus laoreet mauris tincidunt interdum eu at lectus. Mauris aliquam ligula ac faucibus pellentesque. Donec eget nulla vitae quam sodales semper. Sed id elit auctor, ultricies purus id, ornare odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum enim erat, dictum sed neque quis, imperdiet posuere sem. Sed urna orci, lobortis nec consectetur efficitur, sagittis quis neque.Praesent non finibus neque. Suspendisse nec sagittis eros. Donec vitae fermentum augue. Aenean lacinia neque rutrum, volutpat metus sit amet, iaculis mauris. Sed quis porta purus, id vestibulum velit. Proin bibendum, felis a maximus bibendum, ante quam fermentum massa, vel tristique purus risus ac odio. Quisque ac elit vel odio maximus viverra. Praesent bibendum neque feugiat quam ornare, vitae fringilla purus imperdiet. Vivamus vehicula nulla ac ligula volutpat facilisis. Sed aliquam odio augue, sed pharetra lacus placerat ut. Proin venenatis scelerisque consectetur. Nullam nibh velit, consequat a purus et, efficitur sollicitudin felis. Quisque a euismod diam. Nam accumsan finibus ex quis fermentum. Ut non risus eget ipsum maximus facilisis ut quis arcu."
-    },
-    {
-      id: 5,
-      title: "Article",
-      summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-      imageUrl: "https://authorservices.taylorandfrancis.com/wp-content/uploads/2020/10/icon_draft_your_article.svg",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue turpis ipsum. Donec eleifend mauris at eleifend mattis. Mauris eu elementum sem, ut ornare lacus. Phasellus vitae orci enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque facilisis, ante et pretium feugiat, massa ipsum iaculis ante, sed consequat lectus purus id metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non malesuada ipsum. Ut et risus laoreet mauris tincidunt interdum eu at lectus. Mauris aliquam ligula ac faucibus pellentesque. Donec eget nulla vitae quam sodales semper. Sed id elit auctor, ultricies purus id, ornare odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum enim erat, dictum sed neque quis, imperdiet posuere sem. Sed urna orci, lobortis nec consectetur efficitur, sagittis quis neque.Praesent non finibus neque. Suspendisse nec sagittis eros. Donec vitae fermentum augue. Aenean lacinia neque rutrum, volutpat metus sit amet, iaculis mauris. Sed quis porta purus, id vestibulum velit. Proin bibendum, felis a maximus bibendum, ante quam fermentum massa, vel tristique purus risus ac odio. Quisque ac elit vel odio maximus viverra. Praesent bibendum neque feugiat quam ornare, vitae fringilla purus imperdiet. Vivamus vehicula nulla ac ligula volutpat facilisis. Sed aliquam odio augue, sed pharetra lacus placerat ut. Proin venenatis scelerisque consectetur. Nullam nibh velit, consequat a purus et, efficitur sollicitudin felis. Quisque a euismod diam. Nam accumsan finibus ex quis fermentum. Ut non risus eget ipsum maximus facilisis ut quis arcu."
-    },
-    {
-      id: 6,
-      title: "Article",
-      summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-      imageUrl: "https://authorservices.taylorandfrancis.com/wp-content/uploads/2020/10/icon_draft_your_article.svg",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin congue turpis ipsum. Donec eleifend mauris at eleifend mattis. Mauris eu elementum sem, ut ornare lacus. Phasellus vitae orci enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque facilisis, ante et pretium feugiat, massa ipsum iaculis ante, sed consequat lectus purus id metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non malesuada ipsum. Ut et risus laoreet mauris tincidunt interdum eu at lectus. Mauris aliquam ligula ac faucibus pellentesque. Donec eget nulla vitae quam sodales semper. Sed id elit auctor, ultricies purus id, ornare odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum enim erat, dictum sed neque quis, imperdiet posuere sem. Sed urna orci, lobortis nec consectetur efficitur, sagittis quis neque.Praesent non finibus neque. Suspendisse nec sagittis eros. Donec vitae fermentum augue. Aenean lacinia neque rutrum, volutpat metus sit amet, iaculis mauris. Sed quis porta purus, id vestibulum velit. Proin bibendum, felis a maximus bibendum, ante quam fermentum massa, vel tristique purus risus ac odio. Quisque ac elit vel odio maximus viverra. Praesent bibendum neque feugiat quam ornare, vitae fringilla purus imperdiet. Vivamus vehicula nulla ac ligula volutpat facilisis. Sed aliquam odio augue, sed pharetra lacus placerat ut. Proin venenatis scelerisque consectetur. Nullam nibh velit, consequat a purus et, efficitur sollicitudin felis. Quisque a euismod diam. Nam accumsan finibus ex quis fermentum. Ut non risus eget ipsum maximus facilisis ut quis arcu."
-    }
-  ];
+    
+  ]
   
   export default postsData;
   
