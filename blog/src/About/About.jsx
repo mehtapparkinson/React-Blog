@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import DevPhoto from '../imgs/1.png';
+
 
 function About() {
   return (
@@ -8,7 +8,7 @@ function About() {
       <h1>About Me</h1>
 
       <div className="flex-container">
-        <img src={DevPhoto} alt="Coding Girl" className="flex-image" />
+        <img src="https://i.ibb.co/TBHnwRV/0152b79bddf62f1935c0ffde6ac620c5-sticker.png" alt="Coding Girl" className="flex-image" />
         <p>Hello! I'm Mehtap. As a junior developer, I am passionate about technology and continuous learning. In this blog, I aim to share my journey in the tech world, the challenges I face, and the discoveries I make along the way.</p>
       </div>
 
