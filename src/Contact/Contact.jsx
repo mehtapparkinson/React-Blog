@@ -8,7 +8,7 @@ function Contact() {
       <p>If you have any questions, feedback, or just want to say hello, feel free to reach out to me!</p>
       
       <div className="contact-card">
-        <form className="contact-form">
+        <form className="contact-form" data-netlify="true">
           <input type="text" name="name" placeholder="Your Name" required />
           <input type="email" name="email" placeholder="Your Email" required />
           <textarea name="message" placeholder="Your Message" required></textarea>
